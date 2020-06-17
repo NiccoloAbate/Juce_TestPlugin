@@ -4,7 +4,11 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 #Juce-Specific Ignores
-[Jj]uceLibraryCode/
+[Jj]uce[Ll]ibrary[Cc]ode/
+[Bb]uilds/[Aa]ndroid/
+[Bb]uilds/[Ii][[Oo][Ss]/
+[Bb]uilds/[Ll]inux[Mm]akefile/
+[Bb]uilds/[Mm]ac[Oo][Ss][Xx]/
 
 
 # User-specific files
